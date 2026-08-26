@@ -2,6 +2,7 @@
 creds to @RingmasterAI for table text
 
 -->
+ah it looks ugly rmking later
 <div align="center">
 <img width="445" height="97" alt="7aaf04ea02fd3d8c2d11d7304455af25-removebg-previeww" src="https://github.com/user-attachments/assets/8dd147b7-4ba1-4cbf-9067-19ac18f53c20" />
 
