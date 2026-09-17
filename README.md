@@ -3,6 +3,8 @@ creds to @RingmasterAI for table text
 
 -->
 <div align="center">
+<img width="798" height="969" alt="image" src="https://github.com/user-attachments/assets/e9dda6f7-6731-4b04-a8ca-d585a875a3cc" />
+
 <img width="2040" height="122" alt="4-removebg-preview" src="https://github.com/user-attachments/assets/227e8b5b-000f-4f9e-8a84-660716612fd8" />
 
 
