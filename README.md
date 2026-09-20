@@ -11,9 +11,7 @@ creds to @RingmasterAI for table text
   <tr>
     <th>
       $\color{#303030}{\textsf{ABOUT ME!!}}$ <br>
- $\color{#D28AA3}{\textsf{(˶˃ᆺ˂˶)Yatta Fiction kin⋆ֺּׅ𓏽⑅ }}$ <br>
-<img width="20" height="20" alt="a5809319_original-ezgif com-remove-background (1)" src="https://github.com/user-attachments/assets/34c555c3-0df0-4125-92bf-a2cceb7e79a1" />
-  $\color{#D28AA3}{\textsf{call me 𝜗ৎKuro or ִֶָ🪽་༘yatta }}$ <br>
+  $\color{#D28AA3}{\textsf{call me 𝜗ৎKuro or ִֶָ🪽་༘yatta or cyn !! }}$ <br>
 <img width="20" height="20" alt="b1f5403d_original-ezgif com-remove-background (1)" src="https://github.com/user-attachments/assets/14ef73bc-9d1d-4a29-ba2b-1c72a0a95117" />
   $\color{#FFEF76}{\textsf{⋆˚꩜｡ּֆɦɛ / ɦɛʀ / ȶɦɛʏ⋆๑-`𖹭´-}}$ <br>
   <img width="20" height="20" alt="d4d229ee_original-ezgif com-remove-background" src="https://github.com/user-attachments/assets/0f224c2f-fc29-4b48-8edf-27b56ad9c4bc" />
@@ -26,7 +24,7 @@ creds to @RingmasterAI for table text
 
 ㅤ[**𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://yattadapinata.atabook.org)
 <p align="center">
-<img src="https://visitor-badge.laobi.icu/badge?page_id=pinata-yatta.visitor-badge&left_text=Yummy%20candyes&left_color=%23E4AF7C&right_color=%23D7718E" alt="visitor badge"/>
+alt="visitor badge"/>
 <img width="1658" height="150" alt="3-removebg-preview" src="https://github.com/user-attachments/assets/6cfcf89b-3039-460c-9bff-4a4487dc132f" />
 
 <table>
@@ -38,6 +36,7 @@ creds to @RingmasterAI for table text
  $\color{#B05C85}{\textsf{ (╥‸╥) ppl who copy me and my skins}}$ <br>
  $\color{#B05C85}{\textsf{ qwel supporters(¬`‸´¬ )}}$ <br>
 $\color{#B05C85}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
+  $\color{#B05C85}{\textsf{ cyn , tessa, j shippers}}$ <br>
 </th>
 </tr>
 </table>
