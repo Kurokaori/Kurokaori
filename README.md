@@ -4,13 +4,8 @@ creds to @RingmasterAI for table text
 -->
 <div align="center">
 
-<img width="2040" height="122" alt="4-removebg-preview" src="https://github.com/user-attachments/assets/227e8b5b-000f-4f9e-8a84-660716612fd8" />
+<img width="2040" height="122" alt="6-removebg-preview" src="https://github.com/user-attachments/assets/82aae2bf-0170-4f65-bf86-524ce24b5258" />
 
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=DynaPuff&pause=1000&color=D770A3&width=462&lines=Candy+candy+caNDY%2C+CANDY+FOR+ALL!!!;AHAHAHAaaa...+Thought+of+something+funny!;BACKFLIPS%2CFRONTFLIPS%2CSUPER+COOL+FLIPS!!!;PHEW!Good+thing+my+tail+hasn't+been+TANGLED!)](https://git.io/typing-svg)
-
-<img width="736" height="414" alt="854885108eedaf137e045bd395eeb8f8" src="https://github.com/user-attachments/assets/4715dcfd-eb59-4c6d-8618-7bebc57a8b44" />
 
 <table>
   <tr>
@@ -46,7 +41,3 @@ $\color{#B05C85}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
 </th>
 </tr>
 </table>
-
-<img width="500" height="500" alt="13565988_e48d8" src="https://github.com/user-attachments/assets/17e031b4-eb27-488e-8364-c3e1a675ea56" />
-
-<img width="1351" height="116" alt="screenshot-removebg-preview" src="https://github.com/user-attachments/assets/c890cebd-b44c-4bfc-929e-328306049605" />
