@@ -22,7 +22,7 @@ creds to @RingmasterAI for table text
 </tr>
 </table>
 
-ㅤ[**𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://yattadapinata.atabook.org)
+ㅤ[**𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://Kurokaori.atabook.org)
 
 <img width="1658" height="150" alt="3-removebg-preview" src="https://github.com/user-attachments/assets/6cfcf89b-3039-460c-9bff-4a4487dc132f" />
 
