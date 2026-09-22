@@ -6,7 +6,7 @@ creds to @RingmasterAI for table text
 
 <img width="2040" height="122" alt="6-removebg-preview" src="https://github.com/user-attachments/assets/82aae2bf-0170-4f65-bf86-524ce24b5258" />
 
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=Baguettes&left_color=%23F38560&right_color=%236A5652&radius=10)
 <table>
   <tr>
     <th>
