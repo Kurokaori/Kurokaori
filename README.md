@@ -40,3 +40,5 @@ $\color{#B05C85}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
 </th>
 </tr>
 </table>
+<img width="220" height="211" alt="yatta-dandys-world (1)" src="https://github.com/user-attachments/assets/b5dcd1cb-355c-4a23-84ac-8f3dc14a682c" />
+
