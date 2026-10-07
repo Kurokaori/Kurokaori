@@ -6,7 +6,7 @@ creds to @RingmasterAI for table text
 
 <img width="498" height="100" alt="2799202_fc512-removebg-preview" src="https://github.com/user-attachments/assets/d61ebbc3-3913-45ed-a303-6756e37e0e56" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=%E2%8B%86%E2%91%85%CB%9A%E2%82%8A%CA%9A%F0%96%A6%B9%C9%9E%E2%8B%86%E2%91%85%CB%9A%E2%82%8A&left_color=%23E8D2D3&right_color=%23DF6890&radius=10)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=%E2%8B%86%E2%91%85%CB%9A%E2%82%8A%CA%9A%F0%96%A6%B9%C9%9E%E2%8B%86%E2%91%85%CB%9A%E2%82%8A&left_color=%23E8D2D3&right_color=%80D1F8&radius=10)
 
 <img width="498" height="280" alt="2815720_a89b1-ezgif com-remove-background" src="https://github.com/user-attachments/assets/85352cd6-72a3-4d1c-a936-7198f98ef7bd" />
 
