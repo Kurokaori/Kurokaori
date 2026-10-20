@@ -8,6 +8,8 @@ creds to @RingmasterAI for table text
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=%E2%8B%86%E2%91%85%CB%9A%E2%82%8A%CA%9A%F0%96%A6%B9%C9%9E%E2%8B%86%E2%91%85%CB%9A%E2%82%8A&left_color=%23E8D2D3&right_color=%80D1F8&radius=10)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Japan+Tokyo&duration=1000&pause=2000&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AA%E6%99%82%E4%BB%A3%E3%81%AB%E8%AA%82%E3%81%82%E3%81%A4%E3%82%89%E3%81%88%E3%81%9F+;%E8%A6%8B%E3%81%A6%E5%91%89%E3%82%8C%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8D%E3%81%98%E3%82%83%E3%81%8F%E3%81%9B%E3%81%84+;%E6%9C%AC%E5%BD%93%E3%81%AE%E8%8A%9D%E5%B1%85%E3%81%A7%E9%A8%99%E3%81%95%E3%82%8C%E3%82%8B;%E7%9F%A2%E9%B1%88%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E7%85%A9%E3%81%84%E5%BF%83%E8%87%93%E3%81%AE%E9%BC%93%E5%8B%95)](https://git.io/typing-svg)
+
 <img width="498" height="280" alt="2815720_a89b1-ezgif com-remove-background" src="https://github.com/user-attachments/assets/85352cd6-72a3-4d1c-a936-7198f98ef7bd" />
 
 <table>
@@ -32,7 +34,9 @@ creds to @RingmasterAI for table text
 ㅤ[**𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://Kurokaori.atabook.org)
 
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Japan+Tokyo&duration=1000&pause=2000&color=F73535&center=true&vCenter=true&width=435&lines=%E8%B3%9B%E7%BE%8E%E3%81%AF%E3%82%82%E3%81%86%E6%84%8F%E5%91%B3%E3%81%AA%E3%81%84%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%84%E3%82%8B%EF%BC%9B%EF%BC%9B;%E5%81%BD%E3%81%AE%E3%82%AB%E3%83%AA%E3%82%B9%E3%83%9E%E6%80%A7;%E7%8F%BE%E5%AE%9F%E3%82%92%E7%9B%B4%E8%A6%96%E3%81%97%E3%81%99%E3%81%8E%E3%82%8B%E3%81%A8;%E5%A4%B1%E6%98%8E%E3%81%97%E3%81%A1%E3%82%83%E3%81%86%E3%82%93%E3%81%A0!;%E3%81%A0%E3%81%8B%E3%82%89%E3%80%81%E9%81%A9%E5%BA%A6%E3%81%AB%E3%81%AD%28%5E%5E%E2%99%AA+)](https://git.io/typing-svg)
 
+ 
 <table>
   <tr>
     <th>
