@@ -67,15 +67,4 @@ $\color{#E2D7EC}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
 
 <img width="74" height="74" alt="2662609_06493-ezgif com-remove-background" src="https://github.com/user-attachments/assets/70fb7052-9e85-451d-93c1-207dffb82afe" />
 
-<table>
-  <tr>
-    <th>
-      $\color{#303030}{\textsf{IDK SOMTHNG ABOUT ME}}$ <br>
-      <br>
-$\color{#0274F5}{\textsf{iam mostly offtab so iwec or whisper (i might not see the whisper ) }}$ <br>
-$\color{#0274F5}{\textsf{iam mostly alone but rilly happy to C+H ! ) }}$ <br>
-</th>
-</tr>
-</table>
-
 <img width="362" height="129" alt="2885303_53886" src="https://github.com/user-attachments/assets/9de40559-1423-4ab4-98fa-ee395bcd38b4" />
