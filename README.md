@@ -4,13 +4,12 @@ creds to @RingmasterAI for table text
 -->
 <div align="center">
 
-<img width="498" height="100" alt="2799202_fc512-removebg-preview" src="https://github.com/user-attachments/assets/d61ebbc3-3913-45ed-a303-6756e37e0e56" />
+<img width="1280" height="150" alt="dv1o4g-removebg-preview" src="https://github.com/user-attachments/assets/b04b2312-f887-4042-975d-a1e2ab166ed7" />
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=%E2%8B%86%E2%91%85%CB%9A%E2%82%8A%CA%9A%F0%96%A6%B9%C9%9E%E2%8B%86%E2%91%85%CB%9A%E2%82%8A&left_color=%23E8D2D3&right_color=%80D1F8&radius=10)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Japan+Tokyo&duration=1000&pause=2000&center=true&vCenter=true&width=435&lines=%E3%81%93%E3%82%93%E3%81%AA%E6%99%82%E4%BB%A3%E3%81%AB%E8%AA%82%E3%81%82%E3%81%A4%E3%82%89%E3%81%88%E3%81%9F+;%E8%A6%8B%E3%81%A6%E5%91%89%E3%82%8C%E3%81%AE%E8%84%86%E5%BC%B1%E6%80%A7%E3%81%8D%E3%81%98%E3%82%83%E3%81%8F%E3%81%9B%E3%81%84+;%E6%9C%AC%E5%BD%93%E3%81%AE%E8%8A%9D%E5%B1%85%E3%81%A7%E9%A8%99%E3%81%95%E3%82%8C%E3%82%8B;%E7%9F%A2%E9%B1%88%E3%82%84%E3%81%9F%E3%82%89%E3%81%A8%E7%85%A9%E3%81%84%E5%BF%83%E8%87%93%E3%81%AE%E9%BC%93%E5%8B%95)](https://git.io/typing-svg)
+<img width="1280" height="720" alt="tumblr_3c47d20919398ef168dc7a8116bfd58a_29b677c9_1280" src="https://github.com/user-attachments/assets/3bcefc3f-c22c-43b3-8ed7-d0f5811e38b5" />
 
-<img width="498" height="280" alt="2815720_a89b1-ezgif com-remove-background" src="https://github.com/user-attachments/assets/85352cd6-72a3-4d1c-a936-7198f98ef7bd" />
 
 <table>
   <tr>
