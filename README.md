@@ -50,3 +50,21 @@ $\color{#6B797A}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
 <img width="99" height="56" alt="tumblr_21bef7524d1d49c6422ee07b0ad7363b_b7c84c1f_1280" src="https://github.com/user-attachments/assets/ce23e232-fd51-4e0c-9d6e-e1be18b33808" />
 
 <img width="99" height="56" alt="tumblr_3f798766c07898d68c77185374adf464_92c9a67d_1280" src="https://github.com/user-attachments/assets/93f565c9-630f-4cf6-9e06-bd067c39d553" />
+
+<img width="99" height="56" alt="pppp-teto" src="https://github.com/user-attachments/assets/e9d6270f-0537-45bf-b38a-d5f115de78e0" />
+
+<img width="99" height="56" alt="kasane-teto-teto-kasane" src="https://github.com/user-attachments/assets/e2c33f27-a2b3-4c5c-93e0-dcfc97aadb1a" />
+
+<img width="99" height="56" alt="teto-kasane-teto" src="https://github.com/user-attachments/assets/7d02ddd6-8ffc-43fb-a7a9-005b0109866c" />
+
+<img width="99" height="56" alt="pppp-pppp-tak (1)" src="https://github.com/user-attachments/assets/4040e40e-9dbd-493b-b1b5-b61839752c69" />
+
+<img width="99" height="56" alt="teto-miku" src="https://github.com/user-attachments/assets/facbe398-79aa-4cb3-9062-813edcac2a8e" />
+
+<img width="99" height="56" alt="hatsune-miku-miku" src="https://github.com/user-attachments/assets/44dc6b9b-3f1b-4ae7-b647-6818e33a008d" />
+
+<img width="99" height="56" alt="pppp-pppp-tak" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
+
+
+
+$\color{#6B797A}{\textsf{credits to who made the banner}}$ <br>
