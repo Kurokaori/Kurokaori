@@ -22,17 +22,19 @@ creds to @RingmasterAI for table text
  $\color{#303030}{\textsf{ABOUT ME!!}}$ <br>
    
 
-   <img width="20" height="20" alt="a5809319_original-ezgif com-remove-background (1)" src="https://github.com/user-attachments/assets/41c62c55-2bb7-4eb6-b803-730e65513466" />$\color{#D9917D}{\textsf{call me 𝜗ৎKuro or ִֶָ🪽་༘Teto!! }}$ <br>
-<img width="20" height="20" alt="b1f5403d_original-ezgif com-remove-background (1)" src="https://github.com/user-attachments/assets/14ef73bc-9d1d-4a29-ba2b-1c72a0a95117" />
+<img width="20" height="20" alt="2214" src="https://github.com/user-attachments/assets/c508bc60-78f3-422f-b92c-97c230dd516b" />
+  $\color{#D9917D}{\textsf{call me 𝜗ৎKuro or ִֶָ🪽་༘Teto!! }}$ <br>
+
+<img width="20" height="20" alt="179e1de5" src="https://github.com/user-attachments/assets/b2ed90ad-05c4-4a53-a0ac-e7e535d36725" />
   $\color{#C9C8C7}{\textsf{⋆˚꩜｡ּֆɦɛ / ȶɦɛʏ⋆๑-`𖹭´-}}$ <br>
-<img width="20" height="20" alt="e77e1185_original-ezgif com-remove-background" src="https://github.com/user-attachments/assets/35cd7cf6-8600-45e4-8c8b-3ca56f2cc1f8" />
+<img width="20" height="20" alt="35db3bb3" src="https://github.com/user-attachments/assets/5e2a6c84-9f2e-4b57-9c97-9860b31be22e" />
   $\color{#6B797A}{\textsf{нєу ѕιgη αтα !!˚ ༘ ೀ⋆｡˚}}$ <br>
 </th>
 </tr>
 </table>
 
 
-ㅤ[**𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://Kurokaori.atabook.org)
+ㅤ[** 𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://Kurokaori.atabook.org)
 
  
 <table>
@@ -48,8 +50,9 @@ $\color{#6B797A}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
 </tr>
 </table>
 
+<img width="120" height="120" alt="3748-ezgif com-remove-background" src="https://github.com/user-attachments/assets/c11311d6-168b-47a6-86a7-8a520c6f361c" /><img width="120" height="120" alt="3749-ezgif com-remove-background" src="https://github.com/user-attachments/assets/cef440dc-4fbb-4a42-b0f6-fb8b64850166" />
 
-<img width="99" height="56" alt="tumblr_3f798766c07898d68c77185374adf464_92c9a67d_1280" src="https://github.com/user-attachments/assets/93f565c9-630f-4cf6-9e06-bd067c39d553" />
+<img width="120" height="120" alt="a56d4efc-ezgif com-remove-background" src="https://github.com/user-attachments/assets/13174eaf-f89f-4c55-a677-a377f92cbc3c" />
 
 <img width="99" height="56" alt="pppp-teto" src="https://github.com/user-attachments/assets/e9d6270f-0537-45bf-b38a-d5f115de78e0" />
 
@@ -65,6 +68,7 @@ $\color{#6B797A}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
 
 <img width="99" height="56" alt="pppp-pppp-tak" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
 
+<img width="120" height="120" alt="00cf13a1-ezgif com-remove-background" src="https://github.com/user-attachments/assets/74504e96-cf99-42ad-ad7b-1f3b92254b9c" />
 
 
 $\color{#6B797A}{\textsf{credits to who made the banner}}$ <br>
