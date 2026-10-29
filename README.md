@@ -47,7 +47,7 @@ $\color{#6B797A}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
 </th>
 </tr>
 </table>
-<img width="99" height="56" alt="tumblr_21bef7524d1d49c6422ee07b0ad7363b_b7c84c1f_1280" src="https://github.com/user-attachments/assets/ce23e232-fd51-4e0c-9d6e-e1be18b33808" />
+
 
 <img width="99" height="56" alt="tumblr_3f798766c07898d68c77185374adf464_92c9a67d_1280" src="https://github.com/user-attachments/assets/93f565c9-630f-4cf6-9e06-bd067c39d553" />
 
