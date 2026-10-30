@@ -10,6 +10,18 @@ creds to @RingmasterAI for table text
 
 <img width="866" height="288" alt="tumblr_e1eb84d378de147ad66a0be5801d2ed3_9b6012ac_2048-removebg-preview" src="https://github.com/user-attachments/assets/818f8315-4537-4245-804e-2aa09eaa55b7" />
 
+$\color{#C9C8C7}{\textsf{P𝛐ղყ 𝗍𝛐ωղ ꜱ𝗍⍺𝗍υֹׅꜱ !}}$ <br>
+
+$\color{#C9C8C7}{\textsf{🟢 Online :: I⍺ო ⍺ℓℓ 𝛐ղℓıղ𝗲 ꜱ𝛐 ıղ𝗍 ƒ𝗲𝗲ℓყ ıƒ υֹׅ ω⍺ղ⍺ b͜ოƒ}}$ <br>
+
+$\color{#C9C8C7}{\textsf{🎭Roleplay :: N⍺ჩ b͜𝗋𝛐 ᑯ𝛐ղ𝗍 ⍺ꜱ𝗸 ო𝗲}}$ <br>
+
+$\color{#C9C8C7}{\textsf{🌙 Away :: Aƒ𝗸 𝛐𝗋 ⍺ო ı???...ıղ𝗍 ƒ𝗲𝗲ℓყ ოı𝗴ჩ𝗍 ղ𝛐𝗍 𝗋𝗲ꜱ𝗽𝛐ղ𝗍}}$ <br>
+
+$\color{#C9C8C7}{\textsf{⛔ busy :: Oƒƒ𝗍⍺b͜ 𝛐𝗋 ო⍺𝗸𝗲ıղ𝗴 ꜱ𝗸ıղꜱ 𝗰 + ჩ 𝛐𝗸 υֹׅղℓ𝗲ꜱꜱ ı ꜱ⍺ყ ᑯղıυֹׅƒ}}$ <br>
+
+
+
 <img width="700" height="99" alt="tumblr_bc0c1e817881502bc8f739b0c9448c08_a3dabd58_640" src="https://github.com/user-attachments/assets/1b957b8b-9910-4fa8-99be-3b30131b2f32" />
 
 
@@ -34,7 +46,7 @@ creds to @RingmasterAI for table text
 </table>
 
 
-ㅤ[** 𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://Kurokaori.atabook.org)
+ㅤ[**𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://Kurokaori.atabook.org)
 
  
 <table>
