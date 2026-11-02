@@ -10,6 +10,8 @@ creds to @RingmasterAI for table text
 
 <img width="866" height="288" alt="tumblr_e1eb84d378de147ad66a0be5801d2ed3_9b6012ac_2048-removebg-preview" src="https://github.com/user-attachments/assets/818f8315-4537-4245-804e-2aa09eaa55b7" />
 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4qonkjdc5vmc6ayi4n62xpmfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+
 $\color{#C9C8C7}{\textsf{P𝛐ղყ 𝗍𝛐ωղ ꜱ𝗍⍺𝗍υֹׅꜱ !}}$ <br>
 
 $\color{#C9C8C7}{\textsf{🟢 Online :: I⍺ო ⍺ℓℓ 𝛐ղℓıղ𝗲 ꜱ𝛐 ıղ𝗍 ƒ𝗲𝗲ℓყ ıƒ υֹׅ ω⍺ղ⍺ b͜ოƒ}}$ <br>
