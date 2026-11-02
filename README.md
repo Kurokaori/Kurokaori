@@ -22,7 +22,13 @@ $\color{#C9C8C7}{\textsf{🌙 Away :: Aƒ𝗸 𝛐𝗋 ⍺ო ı???...ıղ𝗍 �
 
 $\color{#C9C8C7}{\textsf{⛔ busy :: Oƒƒ𝗍⍺b͜ 𝛐𝗋 ო⍺𝗸𝗲ıղ𝗴 ꜱ𝗸ıղꜱ 𝗰 + ჩ 𝛐𝗸 υֹׅղℓ𝗲ꜱꜱ ı ꜱ⍺ყ ᑯղıυֹׅƒ}}$ <br>
 
+<details>
+<summary>A𝗰ჩı𝗲𝘃𝗲ო𝗲ղ𝗍ꜱ !!</summary>
 
+<img width="337" height="221" alt="pt-menu (⊹♡ᵎ   𝐏t 𝐌enu   🧁 ˖୨୧ ⋆_) and 1 more page - Personal - Microsoft​ Edge 11_08_1405 02_28_13 ب ظ (2)" src="https://github.com/user-attachments/assets/cabea41f-22a3-496f-8841-c5a6bd4d71d7" />
+⍺ωω 𝗍ყꜱო @pt-menu <3
+
+</details>
 
 <img width="700" height="99" alt="tumblr_bc0c1e817881502bc8f739b0c9448c08_a3dabd58_640" src="https://github.com/user-attachments/assets/1b957b8b-9910-4fa8-99be-3b30131b2f32" />
 
