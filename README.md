@@ -26,7 +26,8 @@ $\color{#C9C8C7}{\textsf{⛔ busy :: Oƒƒ𝗍⍺b͜ 𝛐𝗋 ო⍺𝗸𝗲ıղ
 <summary>A𝗰ჩı𝗲𝘃𝗲ო𝗲ղ𝗍ꜱ !!</summary>
 
 <img width="337" height="221" alt="pt-menu (⊹♡ᵎ   𝐏t 𝐌enu   🧁 ˖୨୧ ⋆_) and 1 more page - Personal - Microsoft​ Edge 11_08_1405 02_28_13 ب ظ (2)" src="https://github.com/user-attachments/assets/cabea41f-22a3-496f-8841-c5a6bd4d71d7" />
-⍺ωω 𝗍ყꜱო @pt-menu <3
+<img width="461" height="49" alt="pt-fashion (Pony Town Fashion) and 3 more pages - Personal - Microsoft​ Edge 12_08_1405 09_20_40 ب ظ (2)" src="https://github.com/user-attachments/assets/749ac6b9-cc68-4777-b237-ea63606e3943" />
+
 
 </details>
 
