@@ -16,13 +16,8 @@
 
 <br>
 
-<!-- SPOTIFY -->
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4qonkjdc5vmc6ayi4n62xpmfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
-<br>
-
 <!-- TETO -->
-<img width="637" height="120" alt="character gif" src="https://github.com/user-attachments/assets/74504e96-cf99-42ad-ad7b-1f3b92254b9c" />
+<img width="637" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
 
 <br>
 
@@ -115,11 +110,7 @@ $\color{#D9917D}{\textsf{🎭 𝗋⍺𝗴𝗲 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
 
 <img width="99" height="56" alt="Hatsune Miku" src="https://github.com/user-attachments/assets/44dc6b9b-3f1b-4ae7-b647-6818e33a008d" />
 
-<img width="99" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
-
-<br>
-
-<img width="637" height="120" alt="character gif" src="https://github.com/user-attachments/assets/74504e96-cf99-42ad-ad7b-1f3b92254b9c" />
+<img width="637" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
 
 <br>
 
