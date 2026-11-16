@@ -1,105 +1,169 @@
-<!--
-creds to @RingmasterAI for table text
 
--->
 <div align="center">
-  
-<img width="700" height="99" alt="dv1o4g-removebg-preview" src="https://github.com/user-attachments/assets/b04b2312-f887-4042-975d-a1e2ab166ed7" />
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=%E2%8B%86%E2%91%85%CB%9A%E2%82%8A%CA%9A%F0%96%A6%B9%C9%9E%E2%8B%86%E2%91%85%CB%9A%E2%82%8A&left_color=%23E8D2D3&right_color=%80D1F8&radius=10)
+<!-- HEADER BANNER -->
+<img width="637" height="99" alt="header banner" src="https://github.com/user-attachments/assets/b04b2312-f887-4042-975d-a1e2ab166ed7" />
 
-<img width="866" height="288" alt="tumblr_e1eb84d378de147ad66a0be5801d2ed3_9b6012ac_2048-removebg-preview" src="https://github.com/user-attachments/assets/818f8315-4537-4245-804e-2aa09eaa55b7" />
+<br>
 
+<!-- VISITOR BADGE -->
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=Kurokaori.visitor-badge&left_text=%E2%8B%86%E2%91%85%CB%9A%E2%82%8A%CA%9A%F0%96%A6%B9%C9%9E%E2%8B%86%E2%91%85%CB%9A%E2%82%8A&left_color=%23E8D2D3&right_color=%2380D1F8&radius=10)
+
+<br>
+
+<!-- MAIN BANNER -->
+<img width="637" alt="main banner" src="https://github.com/user-attachments/assets/818f8315-4537-4245-804e-2aa09eaa55b7" />
+
+<br>
+
+<!-- SPOTIFY -->
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31e4qonkjdc5vmc6ayi4n62xpmfa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
-$\color{#C9C8C7}{\textsf{P𝛐ղყ 𝗍𝛐ωղ ꜱ𝗍⍺𝗍υֹׅꜱ !}}$ <br>
+<br>
 
-$\color{#C9C8C7}{\textsf{🟢 Online :: I⍺ო ⍺ℓℓ 𝛐ղℓıղ𝗲 ꜱ𝛐 ıղ𝗍 ƒ𝗲𝗲ℓყ ıƒ υֹׅ ω⍺ղ⍺ b͜ოƒ}}$ <br>
+<!-- TETO -->
+<img width="637" height="120" alt="character gif" src="https://github.com/user-attachments/assets/74504e96-cf99-42ad-ad7b-1f3b92254b9c" />
 
-$\color{#C9C8C7}{\textsf{🎭Roleplay :: N⍺ჩ b͜𝗋𝛐 ᑯ𝛐ղ𝗍 ⍺ꜱ𝗸 ო𝗲}}$ <br>
+<br><br>
 
-$\color{#C9C8C7}{\textsf{🌙 Away :: Aƒ𝗸 𝛐𝗋 ⍺ო ı???...ıղ𝗍 ƒ𝗲𝗲ℓყ ოı𝗴ჩ𝗍 ղ𝛐𝗍 𝗋𝗲ꜱ𝗽𝛐ղ𝗍}}$ <br>
+<!-- ABOUT ME -->
 
-$\color{#C9C8C7}{\textsf{⛔ busy :: Oƒƒ𝗍⍺b͜ 𝛐𝗋 ო⍺𝗸𝗲ıղ𝗴 ꜱ𝗸ıղꜱ 𝗰 + ჩ 𝛐𝗸 υֹׅղℓ𝗲ꜱꜱ ı ꜱ⍺ყ ᑯղıυֹׅƒ}}$ <br>
+$\color{#D9917D}{\textsf{୨୧ 𝗸υֹׅ𝗋𝛐ᑯ⍺ 𝛐𝗋 ყ⍺𝗍𝗍⍺(𝗸υֹׅ𝗋𝛐 ıƒ ƒ𝗋ı𝗲ղᑯꜱ)}}$
+&nbsp;
+$\color{#80D1F8}{\textsf{₊˚⊹}}$
+&nbsp;
+<img width="38" src="https://github.com/user-attachments/assets/c11311d6-168b-47a6-86a7-8a520c6f361c" />
+&nbsp;
+$\color{#F1D98B}{\textsf{17 ,, -15 iwec .ᐟ}}$
+&nbsp;
+$\color{#E8D2D3}{\textsf{♡🎠}}$
+&nbsp;
+$\color{#80D1F8}{\textsf{⋆-‘˚ꜱჩ𝗲 / 𝗍ჩ𝗲ყ๑´-}}$
+
+<br><br>
+
+$\color{#E8D2D3}{\textsf{ᰔ}}$
+&nbsp;
+$\color{#D9917D}{\textsf{. ۫ ·ჩ𝗲⍺𝘃ყ ყ⍺𝗍𝗍⍺ ƒı𝗰𝗍ı𝛐ղ𝗸ıղ}}$
+&nbsp;
+$\color{#6B797A}{\textsf{ᑯb͜ℓꜱ ıω𝗲𝗰}}$
+&nbsp;
+$\color{#F1D98B}{\textsf{🍬}}$
+&nbsp;
+$\color{#80D1F8}{\textsf{✮}}$
+
+<br><br>
+
+<br><br>
+
+<br><br>
+
+<div align="center">
+
+↓ &nbsp;
+<a href="https://Kurokaori.atabook.org">୨୧ atabook</a>
+&nbsp; ♡ &nbsp;
+<a href="https://en.pronouns.page/@Kurokaori">୨୧ pronouns</a>
+&nbsp; ✮ &nbsp;
+<a href="https://kaorikuro.straw.page">୨୧ strawpage</a>
+
+</div>
+
+
+<!-- MY DNI LIST -->
+
+
+<div align="center">
+
+$\color{#D9917D}{\textsf{ᑯղı}}$
+
+<br>
+
+$\color{#D9917D}{\textsf{🚫 𝗽𝗋𝛐/D⍺𝗋𝗸 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
+&nbsp; $\color{#80D1F8}{\textsf{୨୧}}$
+&nbsp; $\color{#E8D2D3}{\textsf{🧸 υֹׅղᑯ𝗲𝗋 15 ყ𝛐}}$
+&nbsp; $\color{#F1D98B}{\textsf{✮}}$
+
+<br><br>
+
+$\color{#D9917D}{\textsf{🎭 𝗋⍺𝗴𝗲 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
+&nbsp; $\color{#80D1F8}{\textsf{୨୧}}$
+&nbsp; $\color{#6B797A}{\textsf{🎨 ıƒ υֹׅ 𝗰𝛐𝗽ყ 𝛐𝗋 ıղꜱ𝗽𝛐 ოყ ꜱ𝗸ıղꜱ}}$
+
+</div>
+
+
+<!-- MY LITTLE SPACE -->
+
+<div align="center">
+
+<img width="700" height="400" alt="decorative banner" src="https://github.com/user-attachments/assets/3bcefc3f-c22c-43b3-8ed7-d0f5811e38b5" />
+
+<br>
+
+<img width="99" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/7d02ddd6-8ffc-43fb-a7a9-005b0109866c" />
+
+<img width="99" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/4040e40e-9dbd-493b-b1b5-b61839752c69" />
+
+<br><br>
+
+<img width="700" height="99" alt="footer banner" src="https://github.com/user-attachments/assets/1b957b8b-9910-4fa8-99be-3b30131b2f32" />
+
+<br>
+
+<img width="99" height="56" alt="Teto and Miku" src="https://github.com/user-attachments/assets/facbe398-79aa-4cb3-9062-813edcac2a8e" />
+
+<img width="99" height="56" alt="Hatsune Miku" src="https://github.com/user-attachments/assets/44dc6b9b-3f1b-4ae7-b647-6818e33a008d" />
+
+<img width="99" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
+
+<br>
+
+<img width="637" height="120" alt="character gif" src="https://github.com/user-attachments/assets/74504e96-cf99-42ad-ad7b-1f3b92254b9c" />
+
+<br>
+
+$\color{#6B797A}{\textsf{credits to who made the banner}}$
+
+</div>
+
+---
+
+<!-- ACHIEVEMENTS - LAST SECTION -->
 
 <details>
-<summary>A𝗰ჩı𝗲𝘃𝗲ო𝗲ղ𝗍ꜱ !!</summary>
+<summary><b>୨୧ A𝗰ჩı𝗲𝘃𝗲ო𝗲ղ𝗍ꜱ !! 🎀</b></summary>
 
-<img width="337" height="221" alt="pt-menu (⊹♡ᵎ   𝐏t 𝐌enu   🧁 ˖୨୧ ⋆_) and 1 more page - Personal - Microsoft​ Edge 11_08_1405 02_28_13 ب ظ (2)" src="https://github.com/user-attachments/assets/cabea41f-22a3-496f-8841-c5a6bd4d71d7" />
-<img width="461" height="49" alt="pt-fashion (Pony Town Fashion) and 3 more pages - Personal - Microsoft​ Edge 12_08_1405 09_20_40 ب ظ (2)" src="https://github.com/user-attachments/assets/749ac6b9-cc68-4777-b237-ea63606e3943" />
-<img width="448" height="55" alt="Ponytowns-treats (⊹ ࣪𓍢ִ໋⋆🍰ೀ⋆) and 3 more pages - Personal - Microsoft​ Edge 13_08_1405 01_14_00 ب ظ (2)" src="https://github.com/user-attachments/assets/44d3026a-36b8-4fb5-b633-9b88215a4535" /><img width="297" height="57" alt="pts-r0ttingeyes ((ㅅ` ᴖ ´)) and 3 more pages - Personal - Microsoft​ Edge 19_08_1405 07_57_13 ب ظ (2)" src="https://github.com/user-attachments/assets/a8c071e2-76f9-4c37-9f65-8e5417986d6b" />
-<img width="573" height="51" alt="pt-everypony (ᥱ᥎ᥱrᥡ⍴᥆ᥒᥡ) and 1 more page - Personal - Microsoft​ Edge 25_08_1405 01_04_13 ب ظ (2)" src="https://github.com/user-attachments/assets/683d7d9e-6496-41bd-82da-6db78e9b5dc9" />
-<img width="521" height="56" alt="pt-everypony (ᥱ᥎ᥱrᥡ⍴᥆ᥒᥡ) and 1 more page - Personal - Microsoft​ Edge 25_08_1405 01_03_49 ب ظ (2)" src="https://github.com/user-attachments/assets/2fb1ca31-b898-4b10-b8c8-c84df489b0bb" />
+<div align="center">
 
+<br>
 
-$\color{#C9C8C7}{\textsf{𝗍ყꜱო ƒ𝛐𝗋 ⍺ᑯᑯıղ𝗴 ო𝗲 ! <3}}$ <br>
+<img width="337" height="221" alt="Pony Town achievement" src="https://github.com/user-attachments/assets/cabea41f-22a3-496f-8841-c5a6bd4d71d7" />
 
+<br>
 
+<img width="461" height="49" alt="Pony Town Fashion achievement" src="https://github.com/user-attachments/assets/749ac6b9-cc68-4772-b237-ea63606e3943" />
+
+<br>
+
+<img width="448" height="55" alt="Pony Town Treats achievement" src="https://github.com/user-attachments/assets/44d3026a-36b8-4fb5-b633-9b88215a4535" />
+
+<br>
+
+<img width="297" height="57" alt="Pony Town achievement" src="https://github.com/user-attachments/assets/a8c071e2-76f9-4c37-9f65-8e5417986d6b" />
+
+<br>
+
+<img width="573" height="51" alt="Pony Town achievement" src="https://github.com/user-attachments/assets/683d7d9e-6496-41bd-82da-6db78e9b5dc9" />
+
+<br>
+
+<img width="521" height="56" alt="Pony Town achievement" src="https://github.com/user-attachments/assets/2fb1ca31-b898-4b10-b8c8-c84df489b0bb" />
+
+<br>
+
+$\color{#D9917D}{\textsf{𝗍ყꜱო ƒ𝛐𝗋 ⍺ᑯᑯıղ𝗴 ო𝗲 !}}$
+$\color{#80D1F8}{\textsf{<3}}$
+
+</div>
 </details>
-
-<img width="700" height="99" alt="tumblr_bc0c1e817881502bc8f739b0c9448c08_a3dabd58_640" src="https://github.com/user-attachments/assets/1b957b8b-9910-4fa8-99be-3b30131b2f32" />
-
-
-<img width="700" height="400" alt="tumblr_3c47d20919398ef168dc7a8116bfd58a_29b677c9_1280" src="https://github.com/user-attachments/assets/3bcefc3f-c22c-43b3-8ed7-d0f5811e38b5" />
-
-
-<table>
-  <tr>
-    <th>
- $\color{#303030}{\textsf{ABOUT ME!!}}$ <br>
-   
-
-<img width="20" height="20" alt="2214" src="https://github.com/user-attachments/assets/c508bc60-78f3-422f-b92c-97c230dd516b" />
-  $\color{#D9917D}{\textsf{call me 𝜗ৎKuro or ִֶָ🪽་༘Teto!! }}$ <br>
-
-<img width="20" height="20" alt="179e1de5" src="https://github.com/user-attachments/assets/b2ed90ad-05c4-4a53-a0ac-e7e535d36725" />
-  $\color{#C9C8C7}{\textsf{⋆˚꩜｡ּֆɦɛ / ȶɦɛʏ⋆๑-`𖹭´-}}$ <br>
-<img width="20" height="20" alt="35db3bb3" src="https://github.com/user-attachments/assets/5e2a6c84-9f2e-4b57-9c97-9860b31be22e" />
-  $\color{#6B797A}{\textsf{нєу ѕιgη αтα !!˚ ༘ ೀ⋆｡˚}}$ <br>
-</th>
-</tr>
-</table>
-
-
-ㅤ[**𝓐𝓽𝓪𝓫𝓸𝓸𝓴 !!**](https://Kurokaori.atabook.org)
-
- 
-<table>
-  <tr>
-    <th>
-      $\color{#303030}{\textsf{MY DNI LIST}}$ <br>
-      <br>
- $\color{#6B797A}{\textsf{ Pro/Dark shippers ( ,,⩌'︿'⩌ꐦ,,) }}$ <br>
- $\color{#6B797A}{\textsf{ (╥‸╥) ppl who copy me and my skins}}$ <br>
-$\color{#6B797A}{\textsf{ ૮(◞ ‸ ◟ )ა rage shippers}}$ <br>
-     
-</th>
-</tr>
-</table>
-
-<img width="120" height="120" alt="3748-ezgif com-remove-background" src="https://github.com/user-attachments/assets/c11311d6-168b-47a6-86a7-8a520c6f361c" /><img width="120" height="120" alt="3749-ezgif com-remove-background" src="https://github.com/user-attachments/assets/cef440dc-4fbb-4a42-b0f6-fb8b64850166" />
-
-<img width="120" height="120" alt="a56d4efc-ezgif com-remove-background" src="https://github.com/user-attachments/assets/13174eaf-f89f-4c55-a677-a377f92cbc3c" />
-
-<img width="99" height="56" alt="pppp-teto" src="https://github.com/user-attachments/assets/e9d6270f-0537-45bf-b38a-d5f115de78e0" />
-
-<img width="99" height="56" alt="kasane-teto-teto-kasane" src="https://github.com/user-attachments/assets/e2c33f27-a2b3-4c5c-93e0-dcfc97aadb1a" />
-
-<img width="99" height="56" alt="teto-kasane-teto" src="https://github.com/user-attachments/assets/7d02ddd6-8ffc-43fb-a7a9-005b0109866c" />
-
-<img width="99" height="56" alt="pppp-pppp-tak (1)" src="https://github.com/user-attachments/assets/4040e40e-9dbd-493b-b1b5-b61839752c69" />
-
-<img width="99" height="56" alt="teto-miku" src="https://github.com/user-attachments/assets/facbe398-79aa-4cb3-9062-813edcac2a8e" />
-
-<img width="99" height="56" alt="hatsune-miku-miku" src="https://github.com/user-attachments/assets/44dc6b9b-3f1b-4ae7-b647-6818e33a008d" />
-
-<img width="99" height="56" alt="pppp-pppp-tak" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
-
-<img width="120" height="120" alt="00cf13a1-ezgif com-remove-background" src="https://github.com/user-attachments/assets/74504e96-cf99-42ad-ad7b-1f3b92254b9c" />
-
-
-$\color{#6B797A}{\textsf{credits to who made the banner}}$ <br>
-
-<!-- YOLO achievement test -->
-
-<!-- YOLO test 2 -->
