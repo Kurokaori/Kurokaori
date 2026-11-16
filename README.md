@@ -24,7 +24,7 @@
 <!-- TETO -->
 <img width="637" height="120" alt="character gif" src="https://github.com/user-attachments/assets/74504e96-cf99-42ad-ad7b-1f3b92254b9c" />
 
-<br><br>
+<br>
 
 <!-- ABOUT ME -->
 
