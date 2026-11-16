@@ -17,7 +17,7 @@
 <br>
 
 <!-- TETO -->
-<img width="637" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
+<img width="637" height="55" alt="Pony Town Treats achievement" src="https://github.com/user-attachments/assets/44d3026a-36b8-4fb5-b633-9b88215a4535" />
 
 <br>
 
@@ -137,15 +137,13 @@ $\color{#6B797A}{\textsf{credits to who made the banner}}$
 
 <br>
 
-<img width="448" height="55" alt="Pony Town Treats achievement" src="https://github.com/user-attachments/assets/44d3026a-36b8-4fb5-b633-9b88215a4535" />
+<img width="637" height="55" alt="Pony Town Treats achievement" src="https://github.com/user-attachments/assets/44d3026a-36b8-4fb5-b633-9b88215a4535" />
 
 <br>
 
 <img width="297" height="57" alt="Pony Town achievement" src="https://github.com/user-attachments/assets/a8c071e2-76f9-4c37-9f65-8e5417986d6b" />
 
 <br>
-
-<img width="573" height="51" alt="Pony Town achievement" src="https://github.com/user-attachments/assets/683d7d9e-6496-41bd-82da-6db78e9b5dc9" />
 
 <br>
 
