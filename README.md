@@ -17,7 +17,7 @@
 <br>
 
 <!-- TETO -->
-<img width="637" height="55" alt="Pony Town Treats achievement" src="https://github.com/user-attachments/assets/44d3026a-36b8-4fb5-b633-9b88215a4535" />
+<img width="700" height="99" alt="footer banner" src="https://github.com/user-attachments/assets/1b957b8b-9910-4fa8-99be-3b30131b2f32" />
 
 <br>
 
@@ -27,7 +27,7 @@ $\color{#D9917D}{\textsf{୨୧ 𝗸υֹׅ𝗋𝛐ᑯ⍺ 𝛐𝗋 ყ⍺𝗍𝗍
 &nbsp;
 $\color{#80D1F8}{\textsf{₊˚⊹}}$
 &nbsp;
-<img width="38" src="https://github.com/user-attachments/assets/c11311d6-168b-47a6-86a7-8a520c6f361c" />
+<img width="38" height="38" alt="179e1de5-ezgif com-remove-background" src="https://github.com/user-attachments/assets/eb046d42-4315-46bc-aa3f-613419b4de6c" />
 &nbsp;
 $\color{#F1D98B}{\textsf{17 ,, -15 iwec .ᐟ}}$
 &nbsp;
@@ -102,7 +102,7 @@ $\color{#D9917D}{\textsf{🎭 𝗋⍺𝗴𝗲 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
 
 <br><br>
 
-<img width="700" height="99" alt="footer banner" src="https://github.com/user-attachments/assets/1b957b8b-9910-4fa8-99be-3b30131b2f32" />
+<img width="637" height="99" alt="footer banner" src="https://github.com/user-attachments/assets/1b957b8b-9910-4fa8-99be-3b30131b2f32" />
 
 <br>
 
@@ -110,7 +110,7 @@ $\color{#D9917D}{\textsf{🎭 𝗋⍺𝗴𝗲 ꜱჩı𝗽𝗽𝗲𝗋ꜱ}}$
 
 <img width="99" height="56" alt="Hatsune Miku" src="https://github.com/user-attachments/assets/44dc6b9b-3f1b-4ae7-b647-6818e33a008d" />
 
-<img width="637" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
+<img width="99" height="56" alt="PPPP Teto" src="https://github.com/user-attachments/assets/41aacd43-19c7-4e62-ba77-dd48951af6eb" />
 
 <br>
 
